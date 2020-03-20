@@ -8,7 +8,7 @@
     "indexeddb",
     "localstorage"
   ],
-  "author": "latel kevinn.npm@gmail.com",
+  "author": "latel <latelx64@icloud.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/latel/logline.git"
@@ -19,7 +19,7 @@
     {
       "basePath": "dist",
       "files": [
-        "!(docs)"
+        "logline.*"
       ]
     }
   ]
